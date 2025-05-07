@@ -566,7 +566,12 @@ img   {
     }
 
     .hero {
-        margin-top: 10px;
+        margin-top: 0px;
+        padding-top: 100px;
+    }
+    .hero-background {
+        padding-top: 0px;
+        background-size: contain;
     }
 }
     
