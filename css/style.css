@@ -83,8 +83,8 @@ img   {
 
 /* Hero Section */
 .hero {
-    margin-top: 80px;
-    padding: 0px 20px;
+    margin-top: 0px;
+    padding: 100px;
     text-align: center;
     display: flex;
     flex-direction: column;
