@@ -85,7 +85,7 @@ img   {
 /* Hero Section */
 .hero {
     margin-top: 0px;
-    padding: 100px;
+    padding: 100px 20px;
     text-align: center;
     display: flex;
     flex-direction: column;
@@ -93,14 +93,17 @@ img   {
     align-items: center;
     position: relative;
     height: auto;
+    width: 100%;
+    box-sizing: border-box;
 }
 
 .hero .container {
     max-width: 1200px;
     margin: 0 auto;
     color: #333;
-    z-index: 2;
     position: relative;
+    padding: 0 20px;
+    box-sizing: border-box;
 }
 
 .hero .hero-heading {
