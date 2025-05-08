@@ -563,7 +563,7 @@ img   {
     .hero-background {
         margin-top: 10px;
         padding-top: 0px; 
-        background-size: cover;
+        background-size: contain;
         min-height: 400px;
     }
 
